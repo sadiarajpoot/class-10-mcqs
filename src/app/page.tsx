@@ -216,7 +216,7 @@ export default function Home() {
        <h4>C. They control body temperature.</h4>
        <h4>D. They assist in digestion.</h4>
 
-       <h4 className="mt-9"> 35. During which phase are the chromosomes aligned at the cell's equatorial plane?</h4>
+       <h4 className="mt-9"> 35. During which phase are the chromosomes aligned at the cells equatorial plane?</h4>
        <h4>A. Prophase</h4>
        <h4>B. Metaphase</h4>
        <h4>C. Anaphase</h4>
@@ -246,7 +246,7 @@ export default function Home() {
        <h4>C. Salivary glands</h4>
        <h4>D. Sweat glands</h4>
 
-       <h4 className="mt-9"> 40.   Which hormone is responsible for the "fight or flight" response?</h4>
+       <h4 className="mt-9"> 40.   Which hormone is responsible for the  &quot;fight or flight&quot; response?</h4>
        <h4>A. Insulin</h4>
        <h4>B. Adrenaline</h4>
        <h4>C. Thyroxine</h4>
